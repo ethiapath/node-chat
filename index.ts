@@ -6,6 +6,7 @@ import readline from 'readline'
 import chalk from 'chalk'
 import { emojify } from 'node-emoji'
 
+
 const cli = cac('txtl')
 const { log } = console
 
